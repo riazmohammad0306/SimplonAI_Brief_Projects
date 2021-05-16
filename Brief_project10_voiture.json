@@ -1,0 +1,75 @@
+[{   
+    "marque": "Ferrari",
+    "modele": "F40",
+    "denomination": "Testarossa",
+    "cylindree": 2936,
+    "couleur": "Rouge",
+    "proprietaire": "Valerio"
+},
+{
+    "marque": "De Tomaso",
+    "modele": "Pantera",
+    "denomination": "",
+    "cylindree": 5800,
+    "couleur": "Noir",
+    "proprietaire": "Rafik"
+},
+
+{ 
+    "marque": "Ford",
+    "modele": "Mustang",
+    "denomination": "Eleanor",
+    "cylindree": 7000,
+    "couleur": "Gris",
+    "proprietaire": "Rafik"
+},
+
+{
+
+    "marque": "Lamborghini",
+    "modele": "Countach",
+    "denomination": "",
+    "cylindree": 5167,
+    "couleur": "Jaune",
+    "proprietaire": "Rafik"
+},
+{  
+    "marque": "Dodge",
+    "modele": "Charger",
+    "denomination": "General Lee",
+    "cylindree": 7206,
+    "couleur": "Orange",
+    "proprietaire": "Rafik"
+},
+
+{
+    
+    "marque": "Pontiac",
+    "modele": "Firebird",
+    "denomination": "KITT",
+    "cylindree": 5700,
+    "couleur": "Noir",
+    "proprietaire": "Valerio"
+},
+
+  {
+
+    "marque": "Chevrolet",
+    "modele": "Corvette",
+    "denomination": "Lola",
+    "cylindree": 5400,
+    "couleur": "Rouge",
+    "proprietaire": "Valerio"
+  }
+
+  {
+   
+    "marque": "Cadillac",
+    "modele": "Eldorado",
+    "denomination": "Ectomobile-1",
+    "cylindree": 6400,
+    "proprietaire": "Laurent",
+    "couleur": "Blanc"
+  }
+]
+

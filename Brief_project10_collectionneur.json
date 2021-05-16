@@ -1,0 +1,79 @@
+[
+{
+"proprietaire": "Valerio", 
+ "voiture":[
+ {
+  "marque": "Ferrari",
+  "modele": "F40",
+  "denomination": "Testarossa",
+  "cylindree": 2936,
+  "couleur": "Rouge"
+},
+
+{ "marque": "Pontiac",
+  "modele": "Firebird",
+  "denomination": "KITT",
+  "cylindree": 5700,
+  "couleur": "Noir"
+},
+{ "marque": "Chevrolet",
+  "modele": "Corvette",
+  "denomination": "Lola",
+  "cylindree": 5400,
+  "couleur": "Rouge"
+
+}]
+
+},
+{
+"proprietaire": "Rafik", 
+ "voiture":[
+ {
+  "marque": "Lamborghini",
+  "modele": "Countach",
+  "denomination": "",
+  "cylindree": 5167,
+  "couleur": "Jaune"
+
+},
+{ "marque": "De Tomaso",
+  "modele": "Pantera",
+  "denomination": "",
+  "cylindree": 5800,
+  "couleur": "Noir"
+  
+},
+{"marque": "Ford",
+  "modele": "Mustang",
+  "denomination": "Eleanor",
+  "cylindree": 7000,
+  "couleur": "Gris"
+}
+
+]
+}, 
+
+{
+"proprietaire": "Laurent", 
+ "voiture":[
+ {
+  "marque": "Volkswagen",
+  "modele": "Coccinelle",
+  "denomination": "Choupette",
+  "cylindree": 1584,
+  "couleur": "Blanc"
+
+},
+{ "marque": "Cadillac",
+  "modele": "Eldorado",
+  "denomination": "Ectomobile-1",
+  "cylindree": 6400,
+  "couleur": "Blanc"
+  
+}
+]
+}
+
+]
+
+
